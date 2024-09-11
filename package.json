@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "build": "npm install --legacy-peer-deps"
+    "vercel-build": "echo 'Running backend on Vercel'" 
   },
   "author": "Roshni",
   "license": "ISC",
